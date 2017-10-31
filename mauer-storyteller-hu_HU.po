@@ -1,0 +1,778 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mauer Storyteller\n"
+"POT-Creation-Date: 2016-10-29 15:29+0300\n"
+"PO-Revision-Date: 2017-10-31 12:23+0000\n"
+"Last-Translator: root <setup@gandastudio.com>\n"
+"Language-Team: Hungarian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Report-Msgid-Bugs-To: \n"
+"Language: hu-HU\n"
+"Plural-Forms: nplurals=2; plural=n != 1"
+
+#: functions.php:485
+msgid "Pingback"
+msgstr "Visszajelzés"
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"A távoli bővítmény könyvtára nem tartalmazza a keresett útvonalat, és nem is "
+"átnevezhető."
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:1019 
+#: includes/TGMPA/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Kérjük, vedd fel a kapcsolatot a bővítmény szolgáltatójával és kérd meg őket,"
+" hogy módosítsák a bővítményt a WordPress irányelveknek megfelelően."
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"A távoli bővítmény több fájlt is tartalmaz, de nincsenek könyvtárba rendezve."
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr "WordPress gyűjtemény könyvtár"
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: includes/acf-fields.php:177
+msgid "Url"
+msgstr "Url"
+
+#: includes/acf-fields.php:248
+msgid "Copyright text"
+msgstr "Szerzői jogi információ"
+
+#: includes/acf-fields.php:269
+msgid "Include year in the copyright"
+msgstr "Szerzői jogi információ dátummal"
+
+#: includes/acf-fields.php:285
+msgid "Copyright year"
+msgstr "Év"
+
+#. Theme Name of the plugin/theme
+msgid "Mauer Storyteller"
+msgstr "Mauer Storyteller"
+
+#. Theme URI of the plugin/theme
+msgid "http://storyteller.mauer.co"
+msgstr "http://storyteller.mauer.co"
+
+#. Description of the plugin/theme
+msgid "Blogging theme"
+msgstr "Blogging séma"
+
+#. Author of the plugin/theme
+msgid "Mauer Themes"
+msgstr "Mauer Themes"
+
+#. Author URI of the plugin/theme
+msgid "http://mauer.co"
+msgstr "http://mauer.co"
+
+#: content-pswp.php:21
+msgid "Toggle fullscreen"
+msgstr "Teljesképernyőre váltás"
+
+#: content-pswp.php:34
+msgid "Previous (arrow left)"
+msgstr "Előzők (arrow left)"
+
+#: content-pswp.php:36
+msgid "Next (arrow right)"
+msgstr "Következők (arrow right)"
+
+#: functions.php:16
+msgid "Primary Menu"
+msgstr "Elsődleges menü"
+
+#: functions.php:91
+msgctxt "Poly font: on or off"
+msgid "on"
+msgstr "be"
+
+#: functions.php:92
+msgctxt "Yellowtail font: on or off"
+msgid "on"
+msgstr "be"
+
+#: functions.php:123 functions.php:124 includes/acf-fields.php:7
+msgid "Theme Options"
+msgstr "Séma beállítások"
+
+#: functions.php:198
+msgid "read more"
+msgstr "tovább"
+
+#: functions.php:219
+msgid "Bottom - Left"
+msgstr "Alul - Balra"
+
+#: functions.php:221
+msgid "Left widgetized area"
+msgstr "Baloldali widgetek"
+
+#: functions.php:228
+msgid "Bottom - Center"
+msgstr "Alul - Középen"
+
+#: functions.php:230
+msgid "Central widgetized area"
+msgstr "Középső widgetek"
+
+#: functions.php:237
+msgid "Bottom - Right"
+msgstr "Alul - Jobbra"
+
+#: functions.php:239
+msgid "Right widgetized area"
+msgstr "Jobboldali widgetek"
+
+#: functions.php:460
+msgid "Pages:"
+msgstr "Oldalak:"
+
+#: functions.php:466
+msgid "Next page"
+msgstr "Következő oldal"
+
+#: functions.php:467
+msgid "Previous page"
+msgstr "Előző oldal"
+
+#: functions.php:501
+msgctxt "comes between comment date and comment time"
+msgid "at"
+msgstr ", "
+
+#: functions.php:523
+msgctxt "comment form placeholder"
+msgid "Name"
+msgstr "Név"
+
+#: functions.php:524
+msgctxt "comment form placeholder"
+msgid "Email"
+msgstr "E-mail cím"
+
+#: functions.php:549
+msgctxt "comment form placeholder"
+msgid "Comment"
+msgstr "Megjegyzés"
+
+#: header.php:40
+msgid "Toggle Navigation"
+msgstr "váltás"
+
+#: header.php:50 header.php:73
+msgctxt "Header search link text"
+msgid "Search"
+msgstr "Keresés"
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "Bővítmények telepítése szükséges"
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr "Bővítmények telepítése"
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Bővítmény telepítése: %s"
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "Hiba áll fenn a bővítménnyel"
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "A sablon a következő bővítményt igényli: %1$s."
+msgstr[1] "A sablon a következő bővítményeket igényli: %1$s."
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "A sablon a következő bővítményt javasolja: %1$s."
+msgstr[1] "A sablon a következő bővítményeket javasolja: %1$s."
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"A következő bővítmény frissítése szükséges, a sablonnal való maximális "
+"kompatibilitás miatt: %1$s."
+msgstr[1] ""
+"A következő bővítmények frissítése szükséges, a sablonnal való maximális "
+"kompatibilitás miatt: %1$s."
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "A következő frissítés érhető el: %1$s."
+msgstr[1] "A következő frissítések érhetőek el: %1$s."
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "A következő szükséges bővítmény van kikapcsolva: %1$s."
+msgstr[1] "A következő szükséges bővítmények vannak kikapcsolva: %1$s."
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "A következő javasolt bővítmény van kikapcsolva: %1$s."
+msgstr[1] "A következő javasolt bővítmények vannak kikapcsolva: %1$s."
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Bővítmény telepítése"
+msgstr[1] "Bővítmények telepítése"
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Bővítmény frissítésének megkezdése"
+msgstr[1] "Bővítmények frissítésének megkezdése"
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Bővítmény bekapcsolása"
+msgstr[1] "Bővítmények bekapcsolása"
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "Vissza a szükséges bővítmények telepítéséhez"
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:393 
+#: includes/TGMPA/class-tgm-plugin-activation.php:912 
+#: includes/TGMPA/class-tgm-plugin-activation.php:2618 
+#: includes/TGMPA/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr "Vissza a vezérlőpulthoz"
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:394 
+#: includes/TGMPA/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr "A bővítmény bekapcsolás sikeres volt."
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:395 
+#: includes/TGMPA/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "A következő bővítmény bekapcsolása sikeres volt:"
+msgstr[1] "A következő bővítmények bekapcsolása sikeres volt:"
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Nem történt változás. %1$s bővítmény már be volt kapcsolva."
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"A bővítmény ki van kapcsolva. A sablon igényli %s bővítmény frissítését."
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Minden bővítmény telepítése és bekapcsolása sikeres volt. %1$s"
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "Megjegyzés bezárása"
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"Van egy vagy több szükséges vagy javasolt bővítmény, ami telepítésre, "
+"frissítésre vagy bekapcsolásra vár."
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "Kérjük, vedd fel a kapcsolatot az oldal adminisztrátorával."
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+"Ez a bővítmény frissítésre szorul, hogy kompatibilis legyen a sablonnal."
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:1206 
+#: includes/TGMPA/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "és"
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr "Szükséges"
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr "Javasolt"
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr "Külső forrás"
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr "Előre csomagolt"
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr "Nincs telepítve"
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr "Telepítve, de bekapcsolásra vár"
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr "Bekapcsolva"
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr "A szükséges frissítés nem elérhető"
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr "Frissítés szükséges"
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Összesen <span class=\"count\">(%s)</span>"
+msgstr[1] ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr "Telepített verzió:"
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr "Szükséges verzió:"
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr "Elérhető verzió:"
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr "Nincs több telepítésre, frissítésre vagy bekapcsolásra váró bővítmény."
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr "Bővítmény"
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr "Forrás"
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr "Típus"
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr "Státusz"
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2688 
+#: includes/TGMPA/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr "Telepítés"
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2699 
+#: includes/TGMPA/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr "Bekapcsolás"
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Nem lett telepítve bővítmény, mert nem volt kiválasztva."
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Nem lett frissítve bővítmény, mert nem volt kiválasztva."
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr "Nincs több telepíthető bővítmény."
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr "Nincs több frissíthető bővítmény."
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Nem lett bekapcsolva bővítmény, mert nem volt kiválasztva."
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr "Nincs több bekapcsolásra váró bővítmény."
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr "A bővítmény bekapcsolása sikertelen volt."
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Hibatörtént %1$s telepítése közben: <strong>%2$s</strong>."
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "%1$s telepítése sikertelen volt."
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"A telepítési és bekapcsolási folyamat elkezdődött. Ez eltarthat egy darabig, "
+"kérjük, legyen türelemmel."
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s telepítése és bekapcsolása sikeres volt."
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:3594 
+#: includes/TGMPA/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr "Részletek megjelenítés"
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:3594 
+#: includes/TGMPA/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr "Részletek elrejtése"
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr "Minden telepítés és bekapcsolás sikeres volt."
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Bővítmény telepítése és bekapcsolása %1$s (%2$d/%3$d)"
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"A telepítési folyamat elkezdődött. Ez eltarthat egy darabig, kérjük, legyen "
+"türelemmel."
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s telepítése sikeres volt."
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr "Minden telepítés sikeres volt."
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Bővítmény telepítése %1$s (%2$d/%3$d)"
+
+#: includes/acf-fields.php:11
+msgid "Accent color"
+msgstr "Meghatározó szín"
+
+#: includes/acf-fields.php:14
+msgid "The demo uses #c22828"
+msgstr "A demo a #c22828 színt használja."
+
+#: includes/acf-fields.php:26
+msgid "Logo to use"
+msgstr "Beállított logó"
+
+#: includes/acf-fields.php:54
+msgid "Custom logo image"
+msgstr "Saját logó"
+
+#: includes/acf-fields.php:86
+msgid "Custom favicon"
+msgstr "Saját honlap ikon"
+
+#: includes/acf-fields.php:110
+msgid "Social links"
+msgstr "Közösségi média hivatkozások"
+
+#: includes/acf-fields.php:113
+msgid ""
+"Links to social networks pages that are displayed in the header of the "
+"website."
+msgstr ""
+"Közösségi média hivatkozások, amikor az oldal fejrészében jelennek meg."
+
+#: includes/acf-fields.php:125
+msgid "Add"
+msgstr "Hozzáad"
+
+#: includes/acf-fields.php:129
+msgid "Icon"
+msgstr "Ikon"
+
+#: includes/acf-fields.php:200
+msgid "Blog page layout"
+msgstr "Blog oldal elrendezés"
+
+#: includes/acf-fields.php:224
+msgid "Make the first blog post big"
+msgstr "Első bejegyzés létrehozása"
+
+#: includes/acf-fields.php:288
+msgid ""
+"If you insert the current year, it will be displayed as is. If you insert a "
+"past year, it will be displayed with the current year like so: \"2013–2015\"."
+msgstr ""
+"Ha az aktuális évet írja ide, akkor csak az fog megjelenni, ha egy korábbit, "
+"akkor egy időtartam fog megjelenni, pl: 2013-2015."
+
+#: includes/acf-fields.php:316
+msgid "Google Analytics (or other code to embed)"
+msgstr "Google Analytics, vagy egyéb kód, amit az oldalunkba akarunk ágyazni"
+
+#: includes/acf-fields.php:319
+msgid ""
+"The code you put here will be placed at the beginning of the BODY tag on "
+"every page of your site."
+msgstr "Ide olyan kódot írhat, amit minden oldalban be akar ágyazni."
+
+#: index.php:11
+msgctxt "Search results page heading"
+msgid "Search results for: "
+msgstr "Keresési eredmények"
+
+#: searchform.php:9
+msgctxt "Search button text"
+msgid "Search"
+msgstr "Keresés"
+
+#: single.php:49
+msgid "Tags"
+msgstr "Címkék"
+
+#: single.php:73
+msgctxt "More posts heading"
+msgid "More posts: "
+msgstr "További bejegyzések"
+
+#: 404.php:14
+msgid "Page not found (Error 404)"
+msgstr "Az oldal nem található. (Hiba 404)"
+
+#: bottomwidgetarea.php:18 bottomwidgetarea.php:31 bottomwidgetarea.php:44
+msgid "Widgetized area"
+msgstr "Widgetek"
+
+#: bottomwidgetarea.php:19 bottomwidgetarea.php:32 bottomwidgetarea.php:45
+msgid ""
+"To add widgets here please go to the Admin Panel, and select Appearance>"
+"Widgets."
+msgstr ""
+"Widget hozzáadásához lépjen be az Admin felületre és válassza ki a "
+"Megjelenés>Widgetek menüpontot."
+
+#: comments.php:19
+msgid "Comments"
+msgstr "Hozzászólások"
+
+#: comments.php:28
+msgid "Older Comments"
+msgstr "Korábbi hozzászólások"
+
+#: comments.php:29
+msgid "Newer Comments"
+msgstr "Legfrissebb hozzászólások"
+
+#: comments.php:38
+msgid "Comments are closed"
+msgstr "Nincs hozzászólásra lehetőség"
+
+#: content-grid_2_cols.php:31 content-grid_2_cols.php:67 
+#: content-grid_3_cols.php:31 content-grid_3_cols.php:59 content-list.php:28 
+#: content-masonry.php:33 content-masonry.php:69 single.php:24
+msgid "Sticky"
+msgstr "Tapadós"
+
+#: content-grid_2_cols.php:31 content-grid_2_cols.php:67 
+#: content-grid_3_cols.php:31 content-grid_3_cols.php:59 content-list.php:28 
+#: content-masonry.php:33 content-masonry.php:69 single.php:24 single.php:89
+msgctxt "blog entry categories separator"
+msgid ", "
+msgstr ", "
+
+#: content-grid_2_cols.php:89 content-grid_2_cols.php:97 
+#: content-grid_3_cols.php:81 content-grid_3_cols.php:89 content-list.php:52 
+#: content-list.php:60 content-masonry.php:98 content-masonry.php:106
+msgid "Newer posts"
+msgstr "Legfrissebb bejegyzések"
+
+#: content-grid_2_cols.php:90 content-grid_2_cols.php:98 
+#: content-grid_3_cols.php:82 content-grid_3_cols.php:90 content-list.php:53 
+#: content-list.php:61 content-masonry.php:99 content-masonry.php:107
+msgid "Older posts"
+msgstr "Régebbi bejegyzések"
+
+#: content-grid_2_cols.php:110 content-grid_3_cols.php:102 content-list.php:73 
+#: content-masonry.php:120 page.php:57 single.php:114
+msgid "Sorry, no posts matched your criteria"
+msgstr "Sajnos egyetlen bejegyzés sem felelt meg a keresési feltételeknek"
+
+#: content-pswp.php:19
+msgid "Close (Esc)"
+msgstr "Bezárás (Esc)"
+
+#: content-pswp.php:20
+msgid "Share"
+msgstr "Megosztás"
+
+#: content-pswp.php:22
+msgid "Zoom in/out"
+msgstr "Nagyítás/kicsinyítés"
+
+#: functions.php:506
+msgid "Your comment is awaiting moderation"
+msgstr "A hozzászólásod elbírálásra vár"
+
+#: functions.php:525
+msgctxt "comment form placeholder"
+msgid "Website"
+msgstr "Honlap"
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "Bővítmény frissítés: %s"
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr "Frissítés szükséges"
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr "Frissítés javasolt"
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Telepítés <span class=\"count\">(%s)</span>"
+msgstr[1] "Telepítés <span class=\"count\">(%s)</span>"
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Frissítés elérhető <span class=\"count\">(%s)</span>"
+msgstr[1] "Frissítés elérhető <span class=\"count\">(%s)</span>"
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Bekapcsolás  <span class=\"count\">(%s)</span>"
+msgstr[1] "Bekapcsolás  <span class=\"count\">(%s)</span>"
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "Ismeretlen"
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr "Verzió"
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2693 
+#: includes/TGMPA/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr "Frissítés"
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr "Üzenet érkezett a bővítmény szerzőjétől:"
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Bővítmény frissítés %1$s (%2$d/%3$d)"
+
+#: includes/acf-fields.php:29
+msgid "Whether to use a nicely tailored text logo or a custom image."
+msgstr "Használhat szépen formázott szöveget, vagy saját képet logóként."
+
+#: includes/acf-fields.php:57
+msgid "Upload your custom image (it's height should be at least 96px)."
+msgstr "Feltölthet saját képet (a magassága legalább 96 pixel kell legyen)."
+
+#: includes/acf-fields.php:89
+msgid ""
+"You can upload a custom favicon (recommended: minimum 32×32px; PNG, ICO or "
+"GIF). To revert to the default favicon, just delete your custom image by "
+"hovering over it in the field below and pressing \"X\"."
+msgstr ""
+"Feltölthet saját honlap ikont (javasolt: minimum 32x32 pixel mérertű PNG, "
+"ICO vagy GIF). Az eredeti ikon visszaállításához, csupán a saját ikont kell "
+"törölni."
+
+#: searchform.php:8
+msgctxt "Search field placeholder"
+msgid "Type here"
+msgstr "Kérjük, írja be a keresett kifejezést."
