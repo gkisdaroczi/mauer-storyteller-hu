@@ -1,7 +1,7 @@
 # mauer-storyteller-hu
-Hungarian translation for Mauer Storyteller WordPress theme
+Hungarian translation for Mauer Storyteller WordPress theme<br/>
 
-## Required Loco Translate WordPress plugin
+Required Loco Translate WordPress plugin<br/>
 [https://hu.wordpress.org/plugins/loco-translate/](https://hu.wordpress.org/plugins/loco-translate/)
 
 ## ordered list
