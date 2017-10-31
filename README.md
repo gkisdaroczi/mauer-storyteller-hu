@@ -1,4 +1,4 @@
-# mauer-storyteller-hu
+# Mauer Storyteller themes translation
 Hungarian translation for Mauer Storyteller WordPress theme<br/>
 
 Required Loco Translate WordPress plugin<br/>
